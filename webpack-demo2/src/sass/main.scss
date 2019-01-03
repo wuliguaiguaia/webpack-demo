@@ -1,0 +1,17 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: url(./../statics/bg.jpg) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    h1 {
+        padding: 10px 20px;
+        margin-top: 15px;
+        background-color: #d76563a4;
+        color: #fff;
+
+        span {
+            font-size: 50px;
+        }
+    }
+}
